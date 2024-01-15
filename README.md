@@ -11,7 +11,7 @@ Logistic Regression is a fundamental algorithm used for binary classification ta
 
 ### 2. Hypothesis Function:
 
-- The hypothesis function for logistic regression is $( h_\theta(x) = \sigma(\theta^Tx) )$, where $ \theta $ represents the weights and $\ x$ , represents the input features.
+- The hypothesis function for logistic regression is $( h_\theta(x) = \sigma(\theta^Tx) )$, where $\theta $ represents the weights and $\ x$ , represents the input features.
 
 ### 3. Training Process:
 
