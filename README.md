@@ -18,7 +18,7 @@ Logistic Regression is a fundamental algorithm used for binary classification ta
 - Logistic regression is trained using an iterative optimization algorithm, commonly gradient descent.
 - The objective is to minimize a cost function that measures the difference between the predicted probabilities and the actual class labels.
 - The cost function is defined as: 
-  $$\[ J(\theta) = -\frac{1}{m} \sum_{i=1}^{m} [y^{(i)}\log(h_\theta(x^{(i)})) + (1 - y^{(i)})\log(1 - h_\theta(x^{(i)}))] \]$$
+  $$\ J(\theta) = -\frac{1}{m} \sum_{i=1}^{m} [y^{(i)}\log(h_\theta(x^{(i)})) + (1 - y^{(i)})\log(1 - h_\theta(x^{(i)}))]$$
 
 ### 4. Decision Boundary:
 
