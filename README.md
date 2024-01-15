@@ -7,11 +7,11 @@ Logistic Regression is a fundamental algorithm used for binary classification ta
 ### 1. Sigmoid Function:
 
 - Logistic Regression uses the sigmoid (logistic) function to squash the output of a linear equation between 0 and 1.
-- The sigmoid function is defined as $( \sigma(z) = \frac{1}{1 + e^{-z}} )$, where $\ z$ is a linear combination of input features and weights.
+- The sigmoid function is defined as $( \sigma(z) = \frac{1}{1 + e^{-z}} )$, where $\ z$ , is a linear combination of input features and weights.
 
 ### 2. Hypothesis Function:
 
-- The hypothesis function for logistic regression is $( h_\theta(x) = \sigma(\theta^Tx) )$, where $ \theta $ represents the weights and $ x $ represents the input features.
+- The hypothesis function for logistic regression is $( h_\theta(x) = \sigma(\theta^Tx) )$, where $ \theta $ represents the weights and $\ x$ , represents the input features.
 
 ### 3. Training Process:
 
